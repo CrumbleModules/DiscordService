@@ -1,5 +1,7 @@
 # DiscordService: Easier Webhook Communication
 
+Please make an issue if you find any bugs! It helps us immensely.
+
 This doesn't really need documentation, but...
 
 ```DiscordService.Convert(webhook : string)```
